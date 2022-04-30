@@ -1,14 +1,10 @@
----
-description: 'Источник: https://lms.bsuir.by/course/view.php?id=4756'
----
-
 # Английский язык
 
-{% hint style="info" %}
-Экзамен: письменно-устный
-{% endhint %}
-
 Ссылка на СЭО предмета: [https://lms.bsuir.by/course/view.php?id=4756](https://lms.bsuir.by/course/view.php?id=4756)
+
+{% hint style="info" %}
+Письменно-устный экзамен
+{% endhint %}
 
 ### До сессии:
 
