@@ -1,3 +1,7 @@
+---
+description: 'Источник: https://lms.bsuir.by/course/view.php?id=4756'
+---
+
 # Английский язык
 
 {% hint style="info" %}
