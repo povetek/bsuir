@@ -22,13 +22,13 @@
   * пн (1, 3, 4 недели) с 12:25 до 15:20 (516-4 аудитория)
   * чт (все недели) с 12:25 до 15:20 (410а-4 аудитория)
 
-{% file src=".gitbook/assets/Контрольная работа.docx" %}
+{% file src="../.gitbook/assets/Контрольная работа.docx" %}
 
 ### Экзамен
 
-{% file src=".gitbook/assets/Требования к экзамену.pdf" %}
+{% file src="../.gitbook/assets/Требования к экзамену.pdf" %}
 
-{% file src=".gitbook/assets/Exam Annotation Plan.pdf" %}
+{% file src="../.gitbook/assets/Exam Annotation Plan.pdf" %}
 
 ### Контакты преподавателей:
 
