@@ -2,6 +2,10 @@
 
 СЭО предмета: [https://lms.bsuir.by/course/view.php?id=4756](https://lms.bsuir.by/course/view.php?id=4756)
 
+{% hint style="info" %}
+Письменно-устный экзамен
+{% endhint %}
+
 ### До сессии
 
 #### **Условие зачета**
@@ -23,10 +27,6 @@
 {% file src="../.gitbook/assets/Контрольная работа.docx" %}
 
 ### Экзамен
-
-{% hint style="info" %}
-Письменно-устный экзамен
-{% endhint %}
 
 {% file src="../.gitbook/assets/Требования к экзамену.pdf" %}
 
