@@ -20,3 +20,9 @@ description: Полный и простой гайд по учебе в БГУИ
 {% content-ref url="english.md" %}
 [english.md](english.md)
 {% endcontent-ref %}
+
+### Все данные основаны на информации из:
+
+* СЭО - [https://lms.bsuir.by/](https://lms.bsuir.by)
+* Google Drive - [https://drive.google.com/drive/folders/1gcoyS3ZPsB\_7ZcJyOyMiwp8eIIxznA\_3](https://drive.google.com/drive/folders/1gcoyS3ZPsB\_7ZcJyOyMiwp8eIIxznA\_3)
+* Официальный сайт БГУИР - [https://www.bsuir.by/](https://www.bsuir.by)
