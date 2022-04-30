@@ -2,7 +2,7 @@
 
 * [Введение](README.md)
 * [Список](students-list.md)
-* [Практика](praktika.md)
+* [Практика](practice.md)
 
 ## Предметы <a href="#subjects" id="subjects"></a>
 
@@ -12,4 +12,4 @@
 
 ## Advanced
 
-* [Нашли баг на сайте?](nashli-bag-na-saite.md)
+* [Нашли баг на сайте?](bug-report.md)
