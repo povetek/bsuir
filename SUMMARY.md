@@ -6,6 +6,7 @@
 
 ## Предметы <a href="#subjects" id="subjects"></a>
 
+* [Математический анализ](subjects/matematicheskii-analiz.md)
 * [Английский язык](subjects/english.md)
 
 ## Advanced
