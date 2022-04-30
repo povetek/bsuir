@@ -19,12 +19,6 @@ description: Полный и простой гайд по учебе в БГУИ
 * Математический анализ - письменный
 * Английский язык - письменно-устный
 
-### Предметы:
-
-{% content-ref url="english.md" %}
-[english.md](english.md)
-{% endcontent-ref %}
-
 ### Все данные основаны на информации из:
 
 * СЭО - [https://lms.bsuir.by/](https://lms.bsuir.by)

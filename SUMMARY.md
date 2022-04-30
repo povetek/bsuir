@@ -2,6 +2,12 @@
 
 * [Введение](README.md)
 * [Список](students-list.md)
-* [Практика](praktika.md)
-* [Английский язык](english.md)
-* [Нашли баг на сайте?](nashli-bag-na-saite.md)
+* [Практика](practice.md)
+
+## Предметы
+
+* [Английский язык](predmety/english.md)
+
+## Advanced
+
+* [Нашли баг на сайте?](advanced/bug-report.md)
