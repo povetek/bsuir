@@ -25,10 +25,10 @@
 
 {% file src="../.gitbook/assets/Контрольная работа по МА 2022.docx" %}
 
-### Контакты преподавателей
+### Контакты преподавателей:
 
 #### Майсеня Людмила Иосифовна
 
-* Телефон: [+375 (17) 234-44-29](tel:375172344429)
-* Email: [kaffmd@bsuir.by](mailto:kaffmd@bsuir.by)
+* Телефон: [+375 17 234-44-29](tel:375172344429)
+* E-mail: [kaffmd@bsuir.by](mailto:kaffmd@bsuir.by)
 * Ссылка: [https://iti.bsuir.by/user/info/81](https://iti.bsuir.by/user/info/81)
