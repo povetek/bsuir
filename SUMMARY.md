@@ -2,4 +2,4 @@
 
 * [Введение](README.md)
 * [Список](students-list.md)
-* [Английский язык](angliiskii-yazyk.md)
+* [Английский язык](english.md)
