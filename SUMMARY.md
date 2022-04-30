@@ -6,6 +6,7 @@
 
 ## Предметы <a href="#subjects" id="subjects"></a>
 
+* [Дискретная математика](subjects/discrete-mathematics.md)
 * [Математический анализ](subjects/mathematical-analysis.md)
 * [Английский язык](subjects/english.md)
 
