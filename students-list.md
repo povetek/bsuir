@@ -1,3 +1,3 @@
 # Список
 
-{% embed url="https://docs.google.com/spreadsheets/d/1h44bNRokNRu_Zm5Cs19esx4oOhuP5Gug/edit?rtpof=true" %}
+<table><thead><tr><th data-type="number">Номер</th><th>ФИО</th></tr></thead><tbody><tr><td>null</td><td>Апетёнок А.В.</td></tr><tr><td>null</td><td>Артёмов А.А.</td></tr><tr><td>null</td><td>Беликов А.С.</td></tr><tr><td>null</td><td>Брусницина Н.Д.</td></tr></tbody></table>
