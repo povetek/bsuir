@@ -9,11 +9,11 @@
 * [Математический анализ](subjects/mathematical-analysis.md)
 * [Дискретная математика](subjects/discrete-mathematics.md)
 * [Английский язык](subjects/english.md)
-* [ОАиП](subjects/algorithmization.md)
 * [Логика](subjects/logic.md)
-* [ОКГ](subjects/computer-graphics.md)
-* [КПО](subjects/software-design.md)
-* [АиСД](subjects/algorithms-and-data-structures.md)
+* [Основы компьютерной графики](subjects/computer-graphics.md)
+* [Основы алгоритмизации и программирования](subjects/algorithmization.md)
+* [Конструирование программного обеспечения](subjects/software-design.md)
+* [Алгоритмы и структуры данных](subjects/algorithms-and-data-structures.md)
 
 ## Advanced
 

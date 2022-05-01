@@ -1,8 +1,4 @@
----
-description: Основы алгоритмизации и программирования
----
-
-# ОАиП
+# Основы алгоритмизации и программирования
 
 СЭО предмета: [https://lms.bsuir.by/course/view.php?id=4883](https://lms.bsuir.by/course/view.php?id=4883)
 
