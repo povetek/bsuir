@@ -11,8 +11,9 @@
 * [Английский язык](subjects/english.md)
 * [ОАиП](subjects/algorithmization.md)
 * [Логика](subjects/logic.md)
-* [ОКГ](subjects/computer-graphics.md)
+* [ОКГ](subjects/okg.md)
 * [КПО](subjects/software-design.md)
+* [АиСД](subjects/algorithms-and-data-structures.md)
 
 ## Advanced
 
