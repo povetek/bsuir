@@ -8,11 +8,31 @@
 
 ## До сессии
 
-Делаем контрольную работу на оценку.
+Делаем тренировочную контрольную работу (сдавать нужно на [Google Drive](https://drive.google.com/drive/folders/1G0mku9AGxL8Kfhhzm0qH0UoBB2jkXHpv)).
 
-{% hint style="danger" %}
-Страница все еще в разработке
+Куда сдавать:
+
+* Делаем фото/скан контрольной работы
+* Создаем папку со своей фамилией на [Google Drive](https://drive.google.com/drive/folders/1G0mku9AGxL8Kfhhzm0qH0UoBB2jkXHpv)
+* Загружаем фото/скан в свою папку
+
+Староста соберет все работы и отправит преподавателю.
+
+{% hint style="info" %}
+Не нужно отправлять фото контрольной преподавателю
 {% endhint %}
+
+{% file src="../.gitbook/assets/Контрольная работа ДМ.pdf" %}
+
+Теория: [https://drive.google.com/drive/folders/18NfOIi9LXQAwDb8At1qk-dp7H0SDiKTR](https://drive.google.com/drive/folders/18NfOIi9LXQAwDb8At1qk-dp7H0SDiKTR)
+
+## Во время сессии
+
+Делаем контрольную работу на оценку (нужно написать на 4 балла или выше). Контрольная работа будет во время ПЗ.
+
+## Экзамен
+
+{% file src="../.gitbook/assets/Вопросы к экзамену ДМ.docx" %}
 
 ## Контакты преподавателей
 
