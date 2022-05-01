@@ -11,6 +11,7 @@
 * [Английский язык](subjects/english.md)
 * [ОАиП](subjects/algorithmization.md)
 * [Логика](subjects/logic.md)
+* [ОКГ](subjects/okg.md)
 
 ## Advanced
 
