@@ -27,6 +27,6 @@
 
 ### Сицко Владимир Александрович
 
-* Телефон: +375 17 377-67-60
+* Телефон: [+375 (17) 377-67-60](tel:375173776760)
 * Email: [v.sitsko@bsuir.by](mailto:v.sitsko@bsuir.by), [f784@list.ru](mailto:f784@list.ru)
 * Ссылка: [https://iti.bsuir.by/user/info/127](https://iti.bsuir.by/user/info/127)
