@@ -2,7 +2,7 @@
 
 ## Вы можете создать issue на GitHub
 
-Для этого перейдите по ссылке [GitHub Issues](https://github.com/povetek/bsuir/issues/new?assignees=\&labels=bug\&template=bug\_report.md\&title=). В поле `Title` укажите название ошибки. В поле `Write` укажите:
+Перейдите по ссылке [GitHub Issues](https://github.com/povetek/bsuir/issues/new?assignees=\&labels=bug\&template=bug\_report.md\&title=). В поле `Title` укажите название ошибки. В поле `Write` укажите:
 
 * URL страницы, на которой есть ошибка
 * Описание ошибки
