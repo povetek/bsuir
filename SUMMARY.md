@@ -6,10 +6,11 @@
 
 ## Предметы <a href="#subjects" id="subjects"></a>
 
-* [ОАиП](subjects/algorithmization.md)
 * [Математический анализ](subjects/mathematical-analysis.md)
 * [Дискретная математика](subjects/discrete-mathematics.md)
 * [Английский язык](subjects/english.md)
+* [ОАиП](subjects/algorithmization.md)
+* [Логика](subjects/logic.md)
 
 ## Advanced
 
