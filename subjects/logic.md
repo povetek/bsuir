@@ -8,6 +8,10 @@
 
 Сдать нужно до **23 мая** на почту преподавателя iashchik@yandex.ru.
 
+Во время сдачи КР нужно будет ответить на вопросы преподавателя.
+
+{% file src="../.gitbook/assets/Контрольная работа Логика.doc" %}
+
 Учебная программа - [https://www.bsuir.by/ru/kaf-filosofii/rabochie-programmy](https://www.bsuir.by/ru/kaf-filosofii/rabochie-programmy)
 
 ## Контакты преподавателей
