@@ -6,18 +6,18 @@
 Письменно-устный экзамен
 {% endhint %}
 
-### До сессии
+## До сессии
 
 #### **Условие зачета**
 
 Сдача контрольной работы (у всех единый вариант)
 
-#### Срок сдачи
+#### Срок сдачи контрольной
 
 * Подгруппа 1 - до 10 мая (иногородние могут на сессии сдать)
 * Подгруппа 2 - до 1 мая (10 мая нежелательно)
 
-#### Куда сдавать
+#### Куда сдавать нонтрольную
 
 * Подгруппа 1: апрель и май (404-4 аудитория)
 * Подгруппа 2:
@@ -26,22 +26,22 @@
 
 {% file src="../.gitbook/assets/Контрольная работа.docx" %}
 
-### Экзамен
+## Экзамен
 
 {% file src="../.gitbook/assets/Требования к экзамену.pdf" %}
 
 {% file src="../.gitbook/assets/Exam Annotation Plan.pdf" %}
 
-### Контакты преподавателей
+## Контакты преподавателей
 
 #### Олесько Вероника Сергеевна
 
 * Телефон: [+375 (33) 345-01-33](tel:375333450133)
-* E-mail: [olesko.veronika@mail.ru](mailto:olesko.veronika@mail.ru)
+* Email: [olesko.veronika@mail.ru](mailto:olesko.veronika@mail.ru)
 * Ссылка: [https://www.bsuir.by/ru/kaf-mpk/olesko-v-s](https://www.bsuir.by/ru/kaf-mpk/olesko-v-s)
 
 #### Шевалдышева Елена Зигфридридовна
 
 * Телефон: [+375 (17) 293-86-22](tel:375172938622), [+375 (33) 669-45-15](tel:375336694515)
-* E-mail:[ elenafranciska124@gmail.com](mailto:%20elenafranciska124@gmail.com)
+* Email:[ elenafranciska124@gmail.com](mailto:%20elenafranciska124@gmail.com)
 * Ссылка: [https://www.bsuir.by/ru/kaf-mpk/shevaldysheva-e-z](https://www.bsuir.by/ru/kaf-mpk/shevaldysheva-e-z)
