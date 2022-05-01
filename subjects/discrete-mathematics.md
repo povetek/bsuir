@@ -8,12 +8,12 @@
 
 ## До сессии
 
-Делаем тренировочную контрольную работу (сдавать нужно на [Google Drive](https://drive.google.com/drive/folders/1G0mku9AGxL8Kfhhzm0qH0UoBB2jkXHpv)).
+Делаем тренировочную контрольную работу (сдавать нужно на [Google Диск](https://drive.google.com/drive/folders/1G0mku9AGxL8Kfhhzm0qH0UoBB2jkXHpv)).
 
-Куда сдавать:
+Как сдавать:
 
 * Делаем фото/скан контрольной работы
-* Создаем папку со своей фамилией на [Google Drive](https://drive.google.com/drive/folders/1G0mku9AGxL8Kfhhzm0qH0UoBB2jkXHpv)
+* Создаем папку со своей фамилией на [Google Диск](https://drive.google.com/drive/folders/1G0mku9AGxL8Kfhhzm0qH0UoBB2jkXHpv)
 * Загружаем фото/скан в свою папку
 
 Староста соберет все работы и отправит преподавателю.
