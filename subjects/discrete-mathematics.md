@@ -24,8 +24,6 @@
 
 {% file src="../.gitbook/assets/Контрольная работа ДМ.pdf" %}
 
-Теория: [https://drive.google.com/drive/folders/18NfOIi9LXQAwDb8At1qk-dp7H0SDiKTR](https://drive.google.com/drive/folders/18NfOIi9LXQAwDb8At1qk-dp7H0SDiKTR)
-
 ## Во время сессии
 
 Делаем контрольную работу на оценку (нужно написать на 4 балла или выше).&#x20;
@@ -35,6 +33,10 @@
 ## Экзамен
 
 {% file src="../.gitbook/assets/Вопросы к экзамену ДМ.docx" %}
+
+## Материалы
+
+Теория: [https://drive.google.com/drive/folders/18NfOIi9LXQAwDb8At1qk-dp7H0SDiKTR](https://drive.google.com/drive/folders/18NfOIi9LXQAwDb8At1qk-dp7H0SDiKTR)
 
 ## Контакты преподавателей
 

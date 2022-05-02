@@ -33,7 +33,7 @@
 Задание Визитки, Календарь, Баннер
 {% endfile %}
 
-### Для заданий по AutoCAD
+### Задания по AutoCAD
 
 {% file src="../.gitbook/assets/Сопряжение.pdf" %}
 Для задания 1
@@ -55,17 +55,17 @@
 
 Уроки AutoCAD - [https://www.youtube.com/c/IKGBSUIR](https://www.youtube.com/c/IKGBSUIR)
 
-Презентация с установочной сессии
-
 {% file src="../.gitbook/assets/Установочная _ОКГ_.ppt" %}
-
-Методичка по AutoCAD
+Презентация с установочной сессии
+{% endfile %}
 
 {% file src="../.gitbook/assets/AutoCAD.Построение_и_редактир_электрон_чертежа_Мет_указ_к_практ_работе.pdf" %}
-
-Методичка по проекционному черчению
+Методичка по AutoCAD
+{% endfile %}
 
 {% file src="../.gitbook/assets/Проекционное черчение (ПЧ).pdf" %}
+Методичка по проекционному черчению
+{% endfile %}
 
 ## Программы
 
