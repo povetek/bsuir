@@ -50,11 +50,11 @@ C, C++, C#, C# + Unity, Pascal, Delphi.
 Общие требования к ПЗ
 {% endfile %}
 
-{% file src="../.gitbook/assets/Diplom_gr_781074_POIT_Grudovenko_K_V (1).docx" %}
+{% file src="../.gitbook/assets/Пример ПЗ.docx" %}
 Пример ПЗ
 {% endfile %}
 
-{% file src="../.gitbook/assets/photo_2022-02-14_16-07-49.jpg" %}
+{% file src="../.gitbook/assets/Блок-схема.jpg" %}
 Пример блок-схемы
 {% endfile %}
 
@@ -65,6 +65,10 @@ C, C++, C#, C# + Unity, Pascal, Delphi.
 ## Экзамен
 
 Вопросы скоро появятся в СЭО.
+
+## Материалы
+
+Ссылка на Google Диск преподавателя: [https://drive.google.com/drive/folders/1TofO5dpg8OpNQwvcE-jZwk-LyYv5mWmo](https://drive.google.com/drive/folders/1TofO5dpg8OpNQwvcE-jZwk-LyYv5mWmo)
 
 ## Контакты преподавателей
 
