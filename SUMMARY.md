@@ -8,7 +8,6 @@
 
 * [Английский язык](subjects/english.md)
 * [Основы алгоритмизации и программирования (ОАиП)](subjects/algorithmization.md)
-  * [Курсовая работа](subjects/algorithmization/сoursework.md)
 * [Логика](subjects/logic.md)
 * [Конструирование программного обеспечения (КПО)](subjects/software-design.md)
 * [Дискретная математика](subjects/discrete-mathematics.md)
