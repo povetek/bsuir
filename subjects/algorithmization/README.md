@@ -14,9 +14,9 @@
 
 Делаем курсовую работу. Сдать нужно до **22 мая**. Объем 60-80 страниц.
 
-{% hint style="warning" %}
-В разработке
-{% endhint %}
+{% content-ref url="сoursework.md" %}
+[сoursework.md](сoursework.md)
+{% endcontent-ref %}
 
 ## Во время сессии
 
