@@ -6,6 +6,10 @@
 Письменный экзамен
 {% endhint %}
 
+{% hint style="warning" %}
+Сдача до 20 июня
+{% endhint %}
+
 ## До сессии
 
 Делаем тренировочную контрольную работу (сдавать нужно на [Google Диск](https://drive.google.com/drive/folders/1G0mku9AGxL8Kfhhzm0qH0UoBB2jkXHpv)).

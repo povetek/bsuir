@@ -1,6 +1,10 @@
-# Конструирование программного обеспечения
+# Конструирование программного обеспечения (КПО)
 
 СЭО предмета: [https://lms.bsuir.by/course/view.php?id=4736](https://lms.bsuir.by/course/view.php?id=4736)
+
+{% hint style="warning" %}
+Сдача до 23 мая
+{% endhint %}
 
 ## До сессии
 

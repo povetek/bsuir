@@ -2,6 +2,10 @@
 
 СЭО предмета: [https://lms.bsuir.by/course/view.php?id=4576](https://lms.bsuir.by/course/view.php?id=4576)
 
+{% hint style="warning" %}
+Сдача до 23 мая
+{% endhint %}
+
 ## До сессии
 
 Делаем контрольную работу. Вариант по номеру в списке группы.

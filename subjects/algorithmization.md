@@ -1,9 +1,13 @@
-# Основы алгоритмизации и программирования
+# Основы алгоритмизации и программирования (ОАиП)
 
 СЭО предмета: [https://lms.bsuir.by/course/view.php?id=4883](https://lms.bsuir.by/course/view.php?id=4883)
 
 {% hint style="info" %}
 Письменный экзамен
+{% endhint %}
+
+{% hint style="warning" %}
+Сдача до 22 мая
 {% endhint %}
 
 ## До сессии
