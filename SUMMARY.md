@@ -10,10 +10,10 @@
 * [Дискретная математика](subjects/discrete-mathematics.md)
 * [Английский язык](subjects/english.md)
 * [Логика](subjects/logic.md)
-* [Конструирование программного обеспечения](subjects/software-design.md)
-* [Основы компьютерной графики](subjects/computer-graphics.md)
-* [Алгоритмы и структуры данных](subjects/algorithms-and-data-structures.md)
-* [Основы алгоритмизации и программирования](subjects/algorithmization.md)
+* [Конструирование программного обеспечения (КПО)](subjects/software-design.md)
+* [Основы компьютерной графики (ОКГ)](subjects/computer-graphics.md)
+* [Алгоритмы и структуры данных (АиСД)](subjects/algorithms-and-data-structures.md)
+* [Основы алгоритмизации и программирования (ОАиП)](subjects/algorithmization.md)
 
 ## Advanced
 
