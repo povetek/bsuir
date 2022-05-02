@@ -12,7 +12,7 @@
 
 {% file src="../.gitbook/assets/Контрольная работа Логика.doc" %}
 
-Учебная программа - [https://www.bsuir.by/ru/kaf-filosofii/rabochie-programmy](https://www.bsuir.by/ru/kaf-filosofii/rabochie-programmy)
+Теория - [https://www.bsuir.by/ru/kaf-filosofii/rabochie-programmy](https://www.bsuir.by/ru/kaf-filosofii/rabochie-programmy)
 
 ## Контакты преподавателей
 
