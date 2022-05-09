@@ -7,7 +7,7 @@
 {% endhint %}
 
 {% hint style="warning" %}
-Сдача до 20 июня
+Сдача до 1 июня
 {% endhint %}
 
 ## До сессии

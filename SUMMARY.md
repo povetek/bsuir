@@ -18,3 +18,4 @@
 ## Advanced
 
 * [Нашли баг на сайте?](bug-report.md)
+* [Тестовая страница](advanced/testovaya-stranica.md)
