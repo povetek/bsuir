@@ -2,7 +2,7 @@
 
 * [Введение](README.md)
 * [Списки групп](lists-of-groups/README.md)
-  * [181073](lists-of-groups/students-list.md)
+  * [Группа 181073](lists-of-groups/group-181073.md)
 
 ## Предметы <a href="#subjects" id="subjects"></a>
 
