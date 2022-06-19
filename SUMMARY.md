@@ -6,8 +6,8 @@
 
 ## Семестры <a href="#terms" id="terms"></a>
 
-* [❄ Семестр 3](terms/term-3.md)
-* [Физика](terms/physics.md)
+* [❄ Семестр 3](terms/term-3/README.md)
+  * [Физика](terms/term-3/physics.md)
 * [☀ Семестр 2 (Архив)](terms/term-2/README.md)
   * [Английский язык](subjects/english.md)
   * [Основы алгоритмизации и программирования (ОАиП)](subjects/algorithmization.md)
