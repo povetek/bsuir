@@ -7,7 +7,7 @@
 ## Семестры <a href="#terms" id="terms"></a>
 
 * [❄ Семестр 3](terms/term-3/README.md)
-  * [Экономика](terms/term-3/ekonomika.md)
+  * [Экономика](terms/term-3/economy.md)
   * [Физика](terms/term-3/physics.md)
 * [☀ Семестр 2 (Архив)](terms/term-2/README.md)
   * [Английский язык](subjects/english.md)
