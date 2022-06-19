@@ -10,4 +10,4 @@
 
 Если все готово, нажмите на кнопку `Submit new issue`.
 
-## Или написать автору в [Telegram](https://t.me/dmitrydutin)
+## Или напишите автору в [Telegram](https://t.me/dmitrydutin)
