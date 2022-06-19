@@ -2,7 +2,6 @@
 
 * [Введение](README.md)
 * [Список](students-list.md)
-* [Практика](practice.md)
 
 ## Предметы <a href="#subjects" id="subjects"></a>
 
