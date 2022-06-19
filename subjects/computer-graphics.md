@@ -1,4 +1,4 @@
-# Основы компьютерной графики
+# Основы компьютерной графики (ОКГ)
 
 СЭО предмета: [https://lms.bsuir.by/course/view.php?id=4793](https://lms.bsuir.by/course/view.php?id=4793)
 
