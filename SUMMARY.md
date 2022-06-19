@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Введение](README.md)
-* [Группа 181073](group-181073.md)
-* [Списки групп](lists-of-groups.md)
+* [Списки групп](lists-of-groups/README.md)
+  * [Группа 181073](lists-of-groups/group-181073.md)
 
 ## Семестры <a href="#terms" id="terms"></a>
 
