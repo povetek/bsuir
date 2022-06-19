@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Введение](README.md)
-* [Список](students-list.md)
+* [Списки групп](lists-of-groups/README.md)
+  * [181073](lists-of-groups/students-list.md)
 
 ## Предметы <a href="#subjects" id="subjects"></a>
 
