@@ -3,7 +3,7 @@
 СЭО предмета: [https://lms.bsuir.by/course/view.php?id=5063](https://lms.bsuir.by/course/view.php?id=5063)
 
 {% hint style="info" %}
-Экзамен
+Письменный экзамен
 {% endhint %}
 
 ## До сессии
