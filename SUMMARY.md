@@ -18,7 +18,7 @@
   * [Основы информационной безопасности (ОИнфБ)](terms/term-3/fundamentals-of-information-security.md)
   * [Компиляторные технологии (КомТ)](terms/term-3/сompiler-technologies.md)
   * [Политология ](terms/term-3/political-science.md)
-* [☀ Семестр 2 (Архив)](terms/term-2/README.md)
+* [⛅ Семестр 2 (Архив)](terms/term-2/README.md)
   * [Английский язык](subjects/english.md)
   * [Основы алгоритмизации и программирования (ОАиП)](subjects/algorithmization.md)
   * [Логика](subjects/logic.md)
