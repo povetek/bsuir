@@ -15,6 +15,8 @@
   * [Физика](terms/term-3/physics.md)
   * [Архитектура компьютерной техники и операционных систем (АКТиОС)](terms/term-3/architecture-of-computer-hardware-and-operating-systems.md)
   * [Основы информационной безопасности (ОИнфБ)](terms/term-3/fundamentals-of-information-security.md)
+  * [Компиляторные технологии (КомТ)](terms/term-3/сompiler-technologies.md)
+  * [Метрология стандартизация и сертификация (в информационных технологиях) (МСиСвИТ)](terms/term-3/metrology-standardization-and-certification.md)
   * [Политология ](terms/term-3/political-science.md)
 * [☀ Семестр 2 (Архив)](terms/term-2/README.md)
   * [Английский язык](subjects/english.md)
