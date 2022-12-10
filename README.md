@@ -14,3 +14,4 @@ description: Простой и полный гайд по учебе в БГУИ
 
 * СЭО - [https://lms.bsuir.by/](https://lms.bsuir.by/)
 * Google Диск - [https://drive.google.com/drive/folders/1b1FWgpjhpbKDj0q1o81js5EXtFAg-D3-](https://drive.google.com/drive/folders/1b1FWgpjhpbKDj0q1o81js5EXtFAg-D3-)
+* Официальный сайт БГУИР - [https://www.bsuir.by/](https://www.bsuir.by/)
