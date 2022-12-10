@@ -1,6 +1,8 @@
-# Теория вероятностей и математическая статистика (ТВиМС)
+---
+description: 'СЭО предмета: https://lms.bsuir.by/course/view.php?id=3555'
+---
 
-СЭО предмета: [https://lms.bsuir.by/course/view.php?id=3555](https://lms.bsuir.by/course/view.php?id=3555)
+# Теория вероятностей и математическая статистика (ТВиМС)
 
 {% hint style="info" %}
 Экзамен
