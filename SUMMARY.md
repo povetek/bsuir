@@ -14,6 +14,8 @@
   * [Экономика](terms/term-3/economy.md)
   * [Физика](terms/term-3/physics.md)
   * [Архитектура компьютерной техники и операционных систем (АКТиОС)](terms/term-3/architecture-of-computer-hardware-and-operating-systems.md)
+  * [Основы информационной безопасности (ОИнфБ)](terms/term-3/fundamentals-of-information-security.md)
+  * [Политология ](terms/term-3/political-science.md)
 * [☀ Семестр 2 (Архив)](terms/term-2/README.md)
   * [Английский язык](subjects/english.md)
   * [Основы алгоритмизации и программирования (ОАиП)](subjects/algorithmization.md)
