@@ -16,5 +16,5 @@
 
 * Телефон: [+375 (17) 234-44-29](tel:375172344429)
 * Email: [victormkhntch@gmail.com](mailto:victormkhntch@gmail.com)
-* Кабинет: 801-7
+* Кабинет: 801-7 (ул. Козлова 28)
 * Ссылка: [https://iti.bsuir.by/user/info/45](https://iti.bsuir.by/user/info/45)

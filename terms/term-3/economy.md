@@ -16,4 +16,5 @@
 
 * Телефон: [+375 (29) 501-12-16](tel:375295011216)
 * Email: [naganova@bsuir.by](mailto:naganova@bsuir.by)
+* Кабинет: ?
 * Ссылка: [https://www.bsuir.by/ru/kaf-ekonomiki/naganova-t-e](https://www.bsuir.by/ru/kaf-ekonomiki/naganova-t-e)

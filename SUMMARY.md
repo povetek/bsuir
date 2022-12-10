@@ -8,6 +8,10 @@
 
 * [❄ Семестр 3](terms/term-3/README.md)
   * [Экономика](terms/term-3/economy.md)
+  * [Конструирование программного обеспечения (КПО)](terms/term-3/software-design.md)
+  * [Численные методы (ЧМ)](terms/term-3/numerical-methods.md)
+  * [Теория вероятностей и математическая статистика (ТВиМС)](terms/term-3/theory-of-probability-and-mathematical-statistics.md)
+  * [Алгоритмы и структуры данных (АиСД)](terms/term-3/algorithms-and-data-structures.md)
   * [Физика](terms/term-3/physics.md)
 * [☀ Семестр 2 (Архив)](terms/term-2/README.md)
   * [Английский язык](subjects/english.md)

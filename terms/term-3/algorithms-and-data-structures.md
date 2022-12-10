@@ -1,0 +1,26 @@
+# Алгоритмы и структуры данных (АиСД)
+
+СЭО предмета: [https://lms.bsuir.by/course/view.php?id=5615](https://lms.bsuir.by/course/view.php?id=5615)
+
+{% hint style="info" %}
+&#x20;Экзамен
+{% endhint %}
+
+## До сессии
+
+В разработке
+
+## Контакты преподавателей
+
+### Потоцкий Дмитрий Сергеевич
+
+* Телефон: [+375 (17) 377-67-60](tel:+375173776760)
+* Кабинет: 806-7 (ул. Козлова 28)
+* Ссылка: [https://iis.bsuir.by/employees/d-pototskij](https://iis.bsuir.by/employees/d-pototskij)
+
+### Осмоловский Артём Александрович
+
+* Телефон: [+375 (17) 377-67-60](tel:+375173776760)
+* Email: [Osmolovskij@rambler.ru](mailto:Osm%6f%6c%6f%76%73%6bi%6a@%72am%62%6c%65%72%2e%72%75)
+* Кабинет: 806-7 (ул. Козлова 28)
+* Ссылка: [https://iis.bsuir.by/employees/a-osmolovskij](https://iis.bsuir.by/employees/a-osmolovskij)
