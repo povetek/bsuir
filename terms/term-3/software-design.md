@@ -1,6 +1,6 @@
 # Конструирование программного обеспечения (КПО)
 
-СЭО предмета: в СЭО есть 4 предмета КПО
+СЭО предмета: [https://lms.bsuir.by/course/view.php?id=5067](https://lms.bsuir.by/course/view.php?id=5067)
 
 {% hint style="info" %}
 Экзамен
