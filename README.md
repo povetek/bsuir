@@ -7,8 +7,10 @@ description: Простой и полный гайд по учебе в БГУИ
 ## Полезные ссылки
 
 * Рассписание на сессию: [https://iis.bsuir.by/schedule/181073](https://iis.bsuir.by/schedule/181073)
-* График сессий: [https://drive.google.com/file/d/1oxO9WRtb6HdpLQiVXzLYPo\_P5jCwJuw0/view](https://drive.google.com/file/d/1oxO9WRtb6HdpLQiVXzLYPo\_P5jCwJuw0/view)
 * Заказ справки: [https://iti.bsuir.by/reference](https://iti.bsuir.by/reference)
+* График сессий:&#x20;
+
+{% file src=".gitbook/assets/график сессий 2022-2023.pdf" %}
 
 ## Все данные основаны на информации из
 
