@@ -4,7 +4,11 @@
 
 ## До сессии
 
-В разработке
+![](../../.gitbook/assets/image.png)
+
+{% embed url="https://drive.google.com/drive/u/1/folders/1w2eTL2O_Y2PNDrhzhLya7v2MCn-Tf_At" %}
+
+10 страниц 21 вариант
 
 ## Контакты преподавателей
 
