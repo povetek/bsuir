@@ -1,12 +1,12 @@
 # Table of contents
 
-* [☄ Введение](README.md)
+* [☄️ Введение](README.md)
 * [📋 Списки групп](lists-of-groups/README.md)
   * [Группа 181073](students-list.md)
 
 ## Семестры <a href="#terms" id="terms"></a>
 
-* [❄ Семестр 3](terms/term-3/README.md)
+* [❄️ Семестр 3](terms/term-3/README.md)
   * [Конструирование программного обеспечения (КПО)](terms/term-3/software-design.md)
   * [Теория вероятностей и математическая статистика (ТВиМС)](terms/term-3/theory-of-probability-and-mathematical-statistics.md)
   * [Алгоритмы и структуры данных (АиСД)](terms/term-3/algorithms-and-data-structures.md)
@@ -18,7 +18,7 @@
   * [Основы информационной безопасности (ОИнфБ)](terms/term-3/fundamentals-of-information-security.md)
   * [Компиляторные технологии (КомТ)](terms/term-3/сompiler-technologies.md)
   * [Политология ](terms/term-3/political-science.md)
-* [🌤 Семестр 2 (Архив)](terms/term-2/README.md)
+* [🌤️ Семестр 2 (Архив)](terms/term-2/README.md)
   * [Английский язык](subjects/english.md)
   * [Основы алгоритмизации и программирования (ОАиП)](subjects/algorithmization.md)
   * [Логика](subjects/logic.md)
