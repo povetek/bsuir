@@ -31,3 +31,17 @@
 ## Advanced
 
 * [👾 Нашли баг на сайте?](bug-report.md)
+
+***
+
+* ```yaml
+  type: builtin:openapi
+  props:
+    models: true
+    downloadLink: true
+  dependencies:
+    spec:
+      ref:
+        kind: openapi
+        spec: dmitrys-personal-organization-api
+  ```
